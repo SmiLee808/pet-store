@@ -1,0 +1,36 @@
+body{
+	background-color: #c2fcfc;
+}
+
+div {
+	background-color:;  #fcfbc2;
+	border; 1px solid black;
+	height: 400px;
+	width: 600px;
+}
+
+#store-name{
+	background-color: red;
+	font-size: 40px;
+}
+
+.individual{ 
+	text-align: center; 
+}
+
+
+.individual{ 
+	color: green; 
+}
+
+.individual{ 
+	border-style: solid;
+	border-color: black;
+
+}
+.animalpix{
+	height: 200px;
+	width: 200px;
+	background-color: pink;
+}
+
